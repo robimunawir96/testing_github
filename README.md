@@ -26,4 +26,6 @@ git branch -M main
 
 git remote add origin <address github>
 
+git push -u origin main
+
 ```
