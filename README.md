@@ -29,3 +29,9 @@ git remote add origin <address github>
 git push -u origin main
 
 ```
+
+```Git Branches
+git checkout –b [branchname]	-> Create the branch on your local machine and switch in this branch
+git push origin [branchname]	-> Push the branch to remote repository
+git branch –a				-> See all available branch on local machine
+```
